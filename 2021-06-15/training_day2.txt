@@ -1,0 +1,25 @@
+					2021 HashWave Training Program 
+
+2021 june 15
+		*OOP Concepts[its all about creating objects]
+		   -procedure oriented programming and object oriented programming
+		   -object
+			is a group of interrealated variables and functions
+			(what is  functions and variables,what object exactly means,purpose of object,examples etc)
+		   -class
+			collection of objects
+			(examples,purpose,how it use? etc)
+		   -methods
+			these are the functions that are used to describe the behaviour of the objects
+			(types,how to use,purpose,examples etc)
+		   -functions
+			(how to use?,how it works etc)
+		   -Inheritance
+		   -polymorphism
+		   -multiple inheritance
+		   -Data abstraction
+		   -Encapsulation
+		examples 
+		(program to display  information of a student (name ,roll_no,subject and mark) 
+			
+			
