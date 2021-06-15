@@ -1,0 +1,41 @@
+        				2021 HashWave Training Program 
+
+2021 june 14
+		* Meeting with the teamheads of the organisation
+			( Self introduction,knowing more about the stratergies of the organisation,objective of the organisation etc)
+		*Concept of Datamining
+			(what is meant by datamining,purpose of datamining,applications of datamining etc)
+		*API(Application programming interface)
+			(what is an API exactly?,What are API used for?,How it works?)
+		*HTTP(Hypertext transfer protocol)
+			(What exactly is HTTP and how it works?,http purpose)
+		*client-server model(is a distribution application framework dividing task between servers and clients,which either resides in the same system or communicate through a computer network or the internet
+		*Linux commands(learned about the major important linux commands)
+			- ls
+			- cd
+			- grep
+			- sudo
+			- pwd
+			- mv
+			- cp
+			etc.
+		*package installer
+			-apt(Advanced package tool)
+				It works with the core libraries to handle the installation and removal of software on linux
+				writtern in c++
+			-pip(prefered installer program)
+				Package management system,writtern in python
+				It manages python
+				
+		*IDE sublime text 
+			text edior
+		*Terminal text ediors
+			-vim(advanced text editor for effiecient text editing)
+			-nano(it is for unix like computing systems or operating environments using a command line interface)	
+		*virtual environment
+			(what exactly it means and how to use, purpose of venv etc.)
+
+
+
+
+	
