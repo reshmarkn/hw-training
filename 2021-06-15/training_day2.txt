@@ -21,5 +21,6 @@
 		   -Encapsulation
 		examples 
 		(program to display  information of a student (name ,roll_no,subject and mark) 
+		(organised a breif discussion on OOP through google meet)
 			
 			
