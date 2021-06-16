@@ -1,0 +1,38 @@
+								2021 HashWave Training Program 
+
+2021 june 16
+		*The day start with a google meet and a discussion done on the topic 'PYTHON DATATYPES'
+			(what are the datatypes in python?-string,list,tuple,dictionary,set,range,byte etc,what are the purpose of each datatypes?,individual explanation on each datatypes,examples,what are the major operations can done on each datatypes, etc)
+			-String
+				:string operators
+				(+,*,[],[:],in,not in,etc)
+				:string functions
+				(strip(),split(),format(),join(),upper(),lower(),count(),capitalize(),index(),isalnum(),isalpha(),isdecimal(),isdigit(),isnumeric(),islower(),istitle(),isupper(),title(),etc)
+			-List
+				:list functions
+				(append(),insert(),remove(),pop(),slice(),reverse(),len(),extend(),etc)
+			-Dictionary
+				:dictionary methods
+				(fromkeys(),values(),keys(),get(),items(),etc)
+			some examples are done on above topics
+		*FILES
+			-A file is some information or data which stays in the computer storage devices. ... Python gives you easy ways to manipulate these files
+		*File Handling in python
+			-Python supports file handling and allows users to handle files i.e., to read and write files, along with many other file handling options, to operate on files.
+			(*A detailed explantion was given by the teamheades of the organisation on the topics throgh google meet)
+		*File Operations
+			-Six basic file operations
+				1) Creating a file
+				2) Writing a file
+				3) Reading a file
+				4) Repositioning within a file
+				5) Deleting a file
+				6) Truncating a file
+		*Exception handling
+			-types of errors(value error,key error,attribute error,index error,import error etc)
+			-try,except,finally blocks in error handling
+			(topics are explained with examples through google meet)
+		*Arguments
+			-keyword argument(**kwargs)
+			-non-keyword arguments(*args)
+			-positional arguments
