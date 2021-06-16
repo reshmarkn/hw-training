@@ -36,4 +36,4 @@
 			-keyword argument(**kwargs)
 			-non-keyword arguments(*args)
 			-positional arguments
-		*Google meet is conducted for a discussion on string formatting and python comprehensions(list comprehensions and dictionary comprehensions)
+		*Google meet is conducted and done a discussion on string formatting and python comprehensions(list comprehensions and dictionary comprehensions)
