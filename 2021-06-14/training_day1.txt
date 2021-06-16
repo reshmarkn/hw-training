@@ -19,6 +19,7 @@
 			- mv
 			- cp
 			etc.
+		(conducted a google meet for a discussion on above topics)
 		*package installer
 			-apt(Advanced package tool)
 				It works with the core libraries to handle the installation and removal of software on linux
@@ -33,6 +34,7 @@
 			-vim(advanced text editor for effiecient text editing)
 			-nano(it is for unix like computing systems or operating environments using a command line interface)	
 		*virtual environment
+		(topics are discussed on google meet)
 			(what exactly it means and how to use, purpose of venv etc.)
 
 
