@@ -1,6 +1,5 @@
 from datetime import datetime as dt
 import json
-task=[]
 class WorkingHours():
     def __init__(self,employee_name,employee_id):
         self.employee_name=employee_name
@@ -42,11 +41,6 @@ employee_information={
     'login_time':emp.login(),
     'logout_time':emp.logout(),
 }
-
-
-# dictionary_copy=(task1.copy(),task2.copy(),task3.copy())
-# tasks.append(dictionary_copy)
-# print(tasks)
 json_object=json.dumps(employee_information,indent=4)
 with open("reshu.json","w") as outfile:
     outfile.write(json_object)
