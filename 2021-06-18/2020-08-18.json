@@ -1,0 +1,29 @@
+{
+    "emp_name": "reshu",
+    "emp_id": 1,
+    "login_time": "2021-06-18 21:28",
+    "logout_time": "2021-06-18 21:28",
+    "tasks": [
+        {
+            "task1": "Accounting",
+            "description": "Establishes financial status by developing and implementing systems",
+            "start_time": "2021-06-18 21:28",
+            "task_status": "success",
+            "end_time": "2021-06-18 21:28"
+        },
+        {
+            "task2": "Sales Cordination",
+            "description": "Cordinating training and scheduling for sales staff.",
+            "start_time": "2021-06-18 21:28",
+            "task_status": "failure",
+            "end_time": "2021-06-18 21:28"
+        },
+        {
+            "task3": "recruitment",
+            "description": "recruiting students",
+            "start_time": "2021-06-18 21:28",
+            "task_status": "success",
+            "end_time": "2021-06-18 21:28"
+        }
+    ]
+}
