@@ -1,3 +1,15 @@
-				Hahwave training program
-					
-					
+				Hahwave training program					
+	
+	2021-06-17
+			*Discussed about python generators
+				-A special kind of function
+				-A type of iterator
+			*yield statement
+				-It returns the elements from a generator function into a generator object
+			*next() function
+				-Used to retrieve element from generator object
+			*Memory reference in python
+				-how to load a large sized file in python without occuring the memory issues?
+			*Call by value and and call by reference 
+			(all these topics are explained briefly on google meet)
+						
