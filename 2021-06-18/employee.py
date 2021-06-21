@@ -21,7 +21,7 @@ class WorkingHours():
             'task2':'Sales Cordination',
             'description':'Cordinating training and scheduling for sales staff.',
             'start_time':dt.now().strftime("%Y-%m-%d %H:%M"),
-            'task_status':'success',
+            'task_status':'failure',
             'end_time':dt.now().strftime("%Y-%m-%d %H:%M")
             },
             {
@@ -32,7 +32,7 @@ class WorkingHours():
             'end_time':dt.now().strftime("%Y-%m-%d %H:%M")
             }
         ]
-        print(task)
+        return task
         
 emp=WorkingHours("reshu",1)
 employee_information={
@@ -40,12 +40,12 @@ employee_information={
     'emp_id':emp.employee_id,
     'login_time':emp.login(),
     'logout_time':emp.logout(),
+    'tasks':emp.add_task()
 }
 json_object=json.dumps(employee_information,indent=4)
-with open("reshu.json","w") as outfile:
+with open("2020-08-18.json","w") as outfile:
     outfile.write(json_object)
 print(json_object)
-print(emp.add_task())
 
 
 
