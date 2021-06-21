@@ -1,0 +1,26 @@
+							Hashwave training programme
+	
+	2021 june 21
+	
+	*These topics were given to study
+	
+		*Different HTTP request methods
+			-GET(To retrieve the data ,in which request does not have body,bt a successful response have body)
+			-HEAD
+			-POST(Create the data to the server)
+			-PUT(Update the data in the server)
+			-DELETE(Delete the data)
+			-TRACE
+			-CONNECT
+			-PATCH
+		*Some common features of HTTP methods 
+			-Security
+			-Idempotent
+			-Cacheable
+		*Chrome development tools
+			-Set of web developer tools,built directly into the the google chrome browser
+			-edit changes
+			-diagonise problems
+			-debugging
+			
+						
