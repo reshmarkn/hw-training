@@ -63,7 +63,8 @@ X-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 	
 	*Response status:Status Code: 200 OK
 	
-	*Inspect and find category://*[@id="container"]/div/div[3]/div/div[2]/div[1]/div/div/h1
+	*Inspect and find category: Audio And Video
+	
 	
 	
 	
