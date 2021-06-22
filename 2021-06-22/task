@@ -10,12 +10,11 @@ https://www.flipkart.com/audio-video/~cs-53mrbtcuf5/pr?sid=0pm&collection-tab-na
 		6. response status
 		7. Inspect and find category name
 		
-	*data loading url:
+		*data loading url:
+	
 	https://www.flipkart.com/audio-video/~cs-53mrbtcuf5/pr?sid=0pm&collection-tab-name=Audio+And+Video&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&fm=neo%2Fmerchandising&iid=M_d565fbf6-0263-4fce-b0b8-48e083237d0e_1_372UD5BXDFYS_MC.9JGNW7M0TUHD&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~Audio~All_9JGNW7M0TUHD&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L2_view-all&cid=9JGNW7M0TUHD
 	
-		
-		
-	*Request Headers:
+		*Request Headers:
 	
 		Accept: */*
 		Accept-Encoding: gzip, deflate, br
@@ -46,6 +45,7 @@ X-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 		x-e-id: 10.49.226.30
 		
 	*Cookies:
+	
 		_px3 : ca9b35f920e6cdbb3c8f3f695474aaab259d0677e1feae58533bfd7d8e248393:HieH0ASx9m5HHzhwMFMBTv8X4LdJ2W3DN/qrniyUHe311nYnoKEwKrU9Vx2BUYHbCa7erNV+vNxNEbneGrKONw==:1000:fxTRJedzIw6aJiazLc746TdMFcLz9rJI8Vl+nmZVs9PLPWwl3LA30SV2cwc6khLDTx58Zueceurb802E4UTPSSVI/TN95F8XjLi9OkNkHOvwbQG02lPctZmJJr6q1ktdBcdAAShPD7vH31WhI9jf7+4aeoN01apElKI23HrulUavLSNDLyFqdIoticsLPbgP72iIeRZz7mPvfQEJgto3ng==
 		 gpv_pn_t : FLIPKART%3AProduct%20Page
 		 SN : VIFCF1E7111010449683D39E4D1864B0B1.TOK7D10B2B559A84E1A815D165EBDFF62A1.1624361652.LO
@@ -58,6 +58,7 @@ X-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Ge
 		AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg : 1
 		s : d1t12Mj8lPz9uWDA/fBUcVVQ/P/xNRZxPtJlBHk356QWJW5r5RH1BLWz3AkvVpJninPs7RxAoM5AqeIEQOo2F34F/Kg==
 		Network-Type : 4g
+		
 	*Request Method: POST
 	
 	*Response status:Status Code: 200 OK
