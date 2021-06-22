@@ -1,0 +1,70 @@
+problem:
+
+https://www.flipkart.com/audio-video/~cs-53mrbtcuf5/pr?sid=0pm&collection-tab-name=Audio+And+Video&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&fm=neo%2Fmerchandising&iid=M_d565fbf6-0263-4fce-b0b8-48e083237d0e_1_372UD5BXDFYS_MC.9JGNW7M0TUHD&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~Audio~All_9JGNW7M0TUHD&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L2_view-all&cid=9JGNW7M0TUHD
+	find the following.
+		1. data loading URL
+		2. Request Headers
+		3. Response Headers
+		4. Cookies 
+		5. Method used
+		6. response status
+		7. Inspect and find category name
+		
+	*data loading url:
+	
+		https://www.flipkart.com/audio-video/~cs-53mrbtcuf5/pr?sid=0pm&collection-tab-				name=Audio+And+Video&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&fm=neo%2Fmerchandising&iid=M_d565fbf6-0263-4fce-b0b8-48e083237d0e_1_372UD5BXDFYS_MC.9JGNW7M0TUHD&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Electronics~Audio~All_9JGNW7M0TUHD&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L2_view-all&cid=9JGNW7M0TUHD
+		
+	*Request Headers:
+	
+		Accept: */*
+		Accept-Encoding: gzip, deflate, br
+		Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+		Connection: keep-alive
+		Content-Length: 1147
+		Content-Type: application/json
+Cookie: T=TI162435619247900347162435693876488791241456095585932268897821534296; _pxvid=0f11acbe-d341-11eb-	b562-0242ac120011; AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg=1; s_cc=true; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C18801%7CMCMID%7C01267012748367009997050991584589100958%7CMCAAMLH-1624960994%7C12%7CMCAAMB-1624960994%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1624363395s%7CNONE%7CMCAID%7CNONE; JSESSIONID=1hu8qo6amr8lc854x8m7sryyq; SN=VIFCF1E7111010449683D39E4D1864B0B1.TOK7D10B2B559A84E1A815D165EBDFF62A1.1624361632.LO; gpv_pn=Store%20%3AAudio%20%26%20Video; gpv_pn_t=Store%20Browse; _px3=8152d34c9c6648f99753e5ddc185429ff89650e0d344be7238901a6c6602aee7:Z1SKpbih5xHsbPYOxMMIWluyE+LavEdigM9RbStuLsHE3nLWBLhIvwgi29KUDLwk2VRG/kVDTEf40EXcJX7Xeg==:1000:S+Jn6I8UD/qPRnDSeARTJ62FtJ6boMIHol3kNMhLQMS7DBXE9xN2Hr0j8qJpq84lP3DZXpEn13eYtxiN9Qeaq3hiecarDxrhC+znMixivTAq+JP0mTSePXv68TNl6MvfyeV8I+GEfY/LALx8XMBsnZtVE51E/pDLmcFkeIq1/jRMJXYYuXqUaU5c2QjGCmaoPFZSVWQuVdIW0jQbWcyWcA==; S=d1t12Jj8/Pz9VbisPPz8/fD9bDiwT9B6OGPD3p1FokcQtbpYZ413RHvUknAeVZQtqJD3w18y2MWpFCio0G9IUtSAS/A==; s_sq=flipkart-prd%3D%2526pid%253DStore%252520%25253AAudio%252520%252526%252520Video%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fwww.flipkart.com%25252Finfinity-harman-glide-501-bluetooth-headset%25252Fp%25252Fitm0613e47904ffc%25253Fpid%25253DACCFN5H6%2526ot%253DA
+Host: 2.rome.api.flipkart.com
+Origin: https://www.flipkart.com
+Referer: https://www.flipkart.com/
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+sec-ch-ua-mobile: ?0
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+X-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 FKUA/website/42/website/Desktop
+
+	*Response Headers:
+	
+		Access-Control-Allow-Credentials: true
+		Access-Control-Allow-Origin: https://www.flipkart.com
+		Content-Length: 0
+		Content-Type: application/json
+		Date: Tue, 22 Jun 2021 11:34:12 GMT
+		Server: nginx
+		x-e-id: 10.49.226.30
+		
+	*Cookies:
+		_px3 : ca9b35f920e6cdbb3c8f3f695474aaab259d0677e1feae58533bfd7d8e248393:HieH0ASx9m5HHzhwMFMBTv8X4LdJ2W3DN/qrniyUHe311nYnoKEwKrU9Vx2BUYHbCa7erNV+vNxNEbneGrKONw==:1000:fxTRJedzIw6aJiazLc746TdMFcLz9rJI8Vl+nmZVs9PLPWwl3LA30SV2cwc6khLDTx58Zueceurb802E4UTPSSVI/TN95F8XjLi9OkNkHOvwbQG02lPctZmJJr6q1ktdBcdAAShPD7vH31WhI9jf7+4aeoN01apElKI23HrulUavLSNDLyFqdIoticsLPbgP72iIeRZz7mPvfQEJgto3ng==
+		 gpv_pn_t : FLIPKART%3AProduct%20Page
+		 SN : VIFCF1E7111010449683D39E4D1864B0B1.TOK7D10B2B559A84E1A815D165EBDFF62A1.1624361652.LO
+		 s_sq : %5B%5BB%5D%5D
+		 T : TI162435619247900347162435693876488791241456095585932268897821534296
+		 gpv_pn : Product%20Page
+		 AMCV_17EB401053DAF4840A490D4C%40AdobeOrg : -227196251%7CMCIDTS%7C18801%7CMCMID%7C01267012748367009997050991584589100958%7CMCAAMLH-1624960994%7C12%7CMCAAMB-1624960994%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1624363395s%7CNONE%7CMCAID%7CNONE
+		s_cc : true
+		_pxvid : 0f11acbe-d341-11eb-b562-0242ac120011
+		AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg : 1
+		s : d1t12Mj8lPz9uWDA/fBUcVVQ/P/xNRZxPtJlBHk356QWJW5r5RH1BLWz3AkvVpJninPs7RxAoM5AqeIEQOo2F34F/Kg==
+		Network-Type : 4g
+	*Request Method: POST
+	
+	*Response status:Status Code: 200 OK
+	
+	*Inspect and find category://*[@id="container"]/div/div[3]/div/div[2]/div[1]/div/div/h1
+	
+	
+	
+
+
+
