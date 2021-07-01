@@ -8,14 +8,14 @@ c=client.list_database_names()
 print(c)
 
 # Select the Database
-db=client['newdatabase']
+db=client.newdatabase
 
 #list the collections
 d=db.list_collection_names()
 print(d)
 
 #select the collection
-collection=db['sampledocument']
+collection=db.sampledocument
 
 # Print each Document
 info=collection.find()
